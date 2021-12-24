@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: manukhdez
+Build-Jdk: 15.0.1
+Implementation-Title: gustavopeiretti
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: gustavopeiretti
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/gustavopeirett
+ i/
+Created-By: Maven Integration for Eclipse
+
